@@ -1,0 +1,552 @@
+.title {
+    text-align: center;
+    margin-top: 50px;
+}
+.title h5{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+img{
+    width: 210px;
+    margin-top: 90px;
+    position: absolute;
+    margin-left: 570px;
+}
+.grup-1 li a{
+    text-decoration: none;
+    cursor: pointer;
+    justify-self: left;
+    margin: 10px;
+}
+.grup-1{
+    list-style: none;
+    display: flex;
+    margin: 10px;
+    padding-left: 0;
+    margin-top: 30px;
+}
+.A:hover{
+    text-decoration: underline;
+}
+
+.grup-2 li a{
+    text-decoration: none;
+    cursor: pointer;
+    justify-self: left;
+    margin: 10px;
+}
+.grup-2{
+    list-style: none;
+    display: flex;
+    margin: 10px;
+    padding-left: 0rem;
+    margin-top: 30px;
+}
+.grup-3 li a{
+    text-decoration: none;
+    cursor: pointer;
+    justify-self: left;
+    margin: 10px;
+}
+.grup-3{
+    list-style: none;
+    display: flex;
+    margin: 10px;
+    padding-left: 0rem;
+    margin-top: 30px;
+}
+.grup-4 li a{
+    text-decoration: none;
+    cursor: pointer;
+    justify-self: left;
+    margin: 10px;
+}
+.grup-4{
+    list-style: none;
+    display: flex;
+    margin: 10px;
+    padding-left: 0rem;
+    margin-top: 30px;
+}
+.grup-5 li a{
+    text-decoration: none;
+    cursor: pointer;
+    justify-self: left;
+    margin: 10px;
+}
+.grup-5{
+    list-style: none;
+    display: flex;
+    margin: 10px;
+    padding-left: 0rem;
+    margin-top: 30px;
+}
+.grup-1-primero{
+    margin-left: 450px;  
+}
+.grup-1-segundo{  
+    margin-left: 180px;
+}
+.grup-2-primero{  
+    margin-left: 400px;
+}
+.grup-2-segundo{
+    margin-left: 300px;
+}
+.grup-3-primero{ 
+    margin-left: 380px;  
+}
+.grup-3-segundo{
+    margin-left: 330px;
+}
+.grup-4-primero{
+    margin-left: 410px;
+}
+.grup-4-segundo{
+    
+    margin-left: 300px;
+}
+.grup-5-primero{
+    margin-left: 460px;
+}
+.grup-5-segundo{
+    
+    margin-left: 190px;
+}
+.cuadro-buscador{
+    border: 2px solid #36c;
+    width: 60px;
+    height: 40px;
+    margin-left: 850px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #36c ;
+}
+.cuadro-buscador input {
+    width: 413px;
+    height: 38px;
+    font-size: 20px;
+    outline: none;
+    margin-right: 480px;
+    border: 2px solid #36c;
+ 
+}
+
+.lupa-icon{
+    background-image: url('img/search-icon.svg');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    margin-left: 0px;
+    position: absolute;
+    
+}
+.cuadro-idiomas{
+    width: 250px;
+    height: 35px;
+    margin-left: 800px;
+    margin-top: -33px;
+    
+    
+}
+.lang-list-button {
+    border: 1px solid #a2a9b1;
+    height: 30px;
+    margin-left: 520px;
+    width: 280px;
+    padding-left: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    color: #36c;
+    cursor: pointer;
+    outline: none;
+}
+.lang-list-button:hover{
+    outline: 1px solid #36c;
+}
+
+.lenguaje-icon{
+    background-image: url('img/language-icon.svg');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    margin-left: -30px;
+    position: absolute;
+    
+}
+.arrow-blue-icon{
+    background-image: url('img/arrow-down-blue.svg');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 15px;
+    height: 18px;
+    cursor: pointer;
+    margin-left: 20px;
+    position: absolute;
+}
+.lang-list-border{
+    background-color: #c8ccd1;
+    display: block;
+    position: relative;
+    max-width: 90px;
+    width: 80%;
+    height: 1px;
+    margin-left: 400px;
+   margin-top: -13px;
+   
+}
+.lang-list-border2{
+    background-color: #c8ccd1;
+    display: block;
+    position: relative;
+    max-width: 90px;
+    width: 80%;
+    height: 1px;
+    margin-left: 830px;
+   margin-top: -5px;
+   
+}
+.lang-list-border3{
+    background-color: #c8ccd1;
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 1px;
+   margin-top: -5px;
+   
+}
+.cuerpo-1-primero li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cuerpo-1-primero{
+    border: 0px solid #a2a9b1;
+    width: 250px;
+    list-style: none;
+    position: relative;
+    color: #54595d;
+    
+    font-size: 13px;
+    margin-left: 80px;
+}
+.logo-black-icon{
+    background-image: url('img/logo_black.svg');
+  
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    width: 100px;
+    height: 43px;
+    cursor: pointer;
+    margin-left: 20px;
+    position: absolute;
+    margin-left: -50px;
+}
+.cuerpo-1-segundo{
+    border: 0px solid #a2a9b1;
+    width: 275px;
+    
+    list-style: none;
+    position: relative;
+    color: #54595d;
+    
+    font-size: 13px;
+    margin-left: -38px;
+    
+}
+.cuerpo-1-segundo-fondo{
+    border: 0px solid #a2a9b1;
+    padding-top: 10px;
+    width: 250px;
+    height: 167px;
+    padding-left: 90px;
+    margin-left: 30px;
+    background-color: #f8f9fa;
+
+}
+.cuerpo-1-segundo li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wikipedia-icon{
+    background-image: url('img/wikipedia_app_tile.svg');
+    position: absolute;
+    width: 100px;
+    height: 43px;
+    background-repeat: no-repeat;
+    margin-left: -50px;
+}
+.google-play-icon{
+    background-image: url('img/google_play_store.svg');
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-repeat: no-repeat;
+    margin-top: 125px;
+}
+.app-store-icon{
+    background-image: url('img/app_store.svg');
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-repeat: no-repeat;
+    margin-top: 125px;
+    margin-left: 130px;
+}
+.column-1-primero{
+    list-style: none;
+    
+}
+.column-1{
+    margin-left: 400px;
+    margin-top: -285px;
+}
+.column-2{
+    margin-left: 700px;
+    margin-top: -297px;
+}
+.column-3{
+    margin-left: 1000px;
+    margin-top: -297px;
+}
+.button-commons{
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #54595d;
+    border: 0px solid;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+}
+.button-wikiviajes{
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #54595d;
+    border: 0px solid;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    
+}
+.button-wikinoticias{
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #54595d;
+    border: 0px solid;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    
+}
+.button-commons:hover{
+    border: 1px solid #36c;
+}
+.button-wikcionario{
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #54595d;
+    border: 0px solid;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    
+}
+.button-wikidata{
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #54595d;
+    border: 0px solid;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.button-meta-wiki{
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #54595d;
+    border: 0px solid;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    
+}
+.commons-icon{
+    background-image: url('img/Commons-logo.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikilibros-icon{
+    background-image: url('img/Wikibooks-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikiversidad-icon{
+    background-image: url('img/Wikiversity-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikisource-icon{
+    background-image: url('img/Wikisource-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikiviajes-icon{
+    background-image: url('img/Wikivoyage-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikinoticias-icon{
+    background-image: url('img/Wikinews-logo_sister.png');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikiquote-icon{
+    background-image: url('img/Wikiquote-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikispecies-icon{
+    background-image: url('img/Wikispecies-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikcionario-icon{
+    background-image: url('img/Wiktionary-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.wikidata-icon{
+    background-image: url('img/Wikidata-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.mediawiki-icon{
+    background-image: url('img/MediaWiki-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.meta-wiki-icon{
+    background-image: url('img/Meta-Wiki-logo_sister.svg');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: -55px;
+
+}
+.terminos-privacidad{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #54595d;
+    text-align: center;
+}
+.licencia{
+    text-decoration: none;
+    color: #36c;
+}
+.licencia:hover{
+    text-decoration: underline;
+}
+
+.terminos{
+    text-decoration: none;
+    color: #36c;
+}
+.terminos:hover{
+    text-decoration: underline;
+}
+.normativa{
+    text-decoration: none;
+    color: #36c;
+}
+.normativa:hover{
+    text-decoration: underline;
+}
+
